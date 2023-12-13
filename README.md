@@ -1,6 +1,7 @@
 # Multi-type-Data-Adaptive-Semantic-Communication
 
-##Data Set
+## Data Set
+
 The text data set uses the minutes of the European Parliament
 
 The image data set uses cifar_10
