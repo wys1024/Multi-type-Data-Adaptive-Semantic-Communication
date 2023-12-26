@@ -2,11 +2,11 @@
 
 ## Data Set
 
-The text data set uses the minutes of the European Parliament
+The text data set：the minutes of the European Parliament
 
-The image data set uses cifar_10
+The image data set：cifar_10
 
-The audio data set uses the speech data set of Edinburgh DataShare
+The audio data se：the speech data set of Edinburgh DataShare
 
 ## System structure diagram
 
