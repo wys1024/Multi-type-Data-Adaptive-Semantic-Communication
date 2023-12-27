@@ -4,6 +4,10 @@
 
 ![](img/system.png)
 
+## Channel adaptation module
+
+![](img/AM.png)
+
 
 ## Data Set：
 The text data set：the minutes of the European Parliament
