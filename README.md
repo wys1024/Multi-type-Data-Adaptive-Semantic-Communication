@@ -10,7 +10,7 @@
 
 An attention fusion (AF) module for neural networks is proposed to dynamically adjust the weight of feature maps in different channels according to the signal-to-noise ratio (snr) to adapt to different channel qualities.
 
-##Results
+## Results
 
 ![](img/result.png)
 
