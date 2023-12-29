@@ -50,7 +50,7 @@ def Attention_Decoder(inputs, snr):                                             
 
 
 
-def AF_Module(inputs, snr, name_prefix):                                                             #实现自适应滤波模块，根据信噪比和输入特征图，对特征图进行加权
+def AF_Module(inputs, snr, name_prefix): #实现自适应滤波模块，根据信噪比和输入特征图，对特征图进行加权
     (_, width, height, ch_num) = inputs.shape
     m = GlobalAveragePooling2D(name=name_prefix + '_globalpooling')(inputs)
     m = Concatenate(name=name_prefix + 'concat')([m, snr])
