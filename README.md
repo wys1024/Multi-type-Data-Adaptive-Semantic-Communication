@@ -30,7 +30,7 @@ An attention fusion (AF) module for neural networks is proposed to dynamically a
 
 <img src="img/result_ca.png" alt="result_ca" width="300" height="200">
 
-### Channel adaptation experimental results
+### Bandwidth adaptation experimental results
 
 <img src="img/result_ba.png" alt="result_ba" width="300" height="200">
 
