@@ -24,15 +24,17 @@
 
 **Bandwidth adaptation**: Use **DQN** deep reinforcement learning to make bandwidth allocation decisions for three types of data to make more reasonable and efficient use of limited bandwidth resources.
 
-## B. System structure diagram：
+## B. Technical realization
+
+### 1. System structure
 
 ![](img/system.png)
 
-### Channel adaptation module
+### 2. Channel adaptation module
 
 ![](img/AF.png)
 
-An attention fusion (AF) module for neural networks is proposed to dynamically adjust the weight of feature maps in different channels according to the SNR to adapt to different channel qualities.
+An attention fusion (**AF**) module for neural networks is proposed to dynamically adjust the weight of feature maps in different channels according to the SNR to adapt to different channel qualities.
 
 ## C. Results
 
@@ -46,8 +48,8 @@ An attention fusion (AF) module for neural networks is proposed to dynamically a
 
 ## D. Data Set
 
-The text data set：The minutes of the European Parliament
+The **text** data set：The minutes of the European Parliament
 
-The image data set：CIFAR_10
+The **image** data set：CIFAR_10
 
-The audio data set：Edinburgh DataShare
+The **audio** data set：Edinburgh DataShare
