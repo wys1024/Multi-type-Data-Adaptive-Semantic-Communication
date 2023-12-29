@@ -6,7 +6,7 @@
 
 **Semantic communication** is an innovative intelligent communication method that achieves real-time and reliable intelligent communication by processing and compressing data at the **semantic level**.
 
-### 2. What problems does semantic communication face?
+### 2. What problems does semantic communication face ?
 
 **Question 1** : The impact of channel quality(signal-to-noise ratio **SNR**) on transmission quality.
 
