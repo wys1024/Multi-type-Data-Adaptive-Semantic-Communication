@@ -4,7 +4,7 @@
 
 ### 1. What is semantic communication ?
 
-Semantic communication is an innovative intelligent communication method that achieves real-time and reliable intelligent communication by processing and compressing data at the **semantic level**.
+**Semantic communication** is an innovative intelligent communication method that achieves real-time and reliable intelligent communication by processing and compressing data at the **semantic level**.
 
 ### 2. What problems does semantic communication face?
 
